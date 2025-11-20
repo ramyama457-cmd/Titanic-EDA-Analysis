@@ -39,4 +39,5 @@ This project performs comprehensive Exploratory Data Analysis (EDA) on the Titan
 4. Run all cells sequentially
 
 ## 📊 Sample Visualizations
-<img width="1171" height="782" alt="image" src="https://github.com/user-attachments/assets/9ac7d316-84d4-4a0c-b610-39270b53dd4d" />
+<img width="1129" height="768" alt="image" src="https://github.com/user-attachments/assets/3444e239-6e5c-488a-8755-43c41390245b" />
+
